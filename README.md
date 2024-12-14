@@ -12,11 +12,8 @@
 
 ## 🌐 Мои проекты:
 <p align="center">
-  <a href="https://github.com/ВашНикнейм/Byedpi-Setup">
+  <a href="https://github.com/fatyzzz/Byedpi-Setup">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ВашНикнейм&repo=Byedpi-Setup&theme=dark" alt="Byedpi Setup" />
-  </a>
-  <a href="https://github.com/ВашНикнейм/ДругойПроект">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ВашНикнейм&repo=ДругойПроект&theme=dark" alt="Другой Проект" />
   </a>
 </p>
 
