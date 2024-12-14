@@ -1,10 +1,9 @@
 <h1 align="center">👋 Всем привет!</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Developer;Open+Source+Enthusiast;Continuous+Learner;Music+Producer" alt="Typing SVG" />
+  <a href="https://github.com/mattboldt/typed.js/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Developer;Open+Source+Enthusiast;Continuous+Learner;Music+Producer" alt="Typing SVG" />
   </a>
 </p>
-
 ## 🛠 Мой арсенал:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,apple" />
