@@ -9,7 +9,7 @@
 ## 🛠 Мой арсенал:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,shell" />
+  <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,apple" />
 </p>
 
 ## 📈 Статистика:
