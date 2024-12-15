@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Developer;Open+Source+Enthusiast;Continuous+Learner;Music+Producer" alt="Typing SVG" />
   </a>
 </p>
-## 🛠 Мой арсенал:
+
+## 🗿 Мой stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,apple" />
 </p>
