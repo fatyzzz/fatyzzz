@@ -14,9 +14,9 @@
 <p align="center">
   <a href="https://github.com/fatyzzz/Byedpi-Setup">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatyzzz&repo=Byedpi-Setup&theme=dark" alt="Byedpi Setup" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatyzzz&repo=donation-media-hub&theme=dark" alt="Donation Media Hub" />
   </a>
 </p>
-
 ## 📫 Как связаться:
 <p align="center">
   <a href="https://t.me/zzzytaF">
