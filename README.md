@@ -1,4 +1,4 @@
-<h1 align="center">👋 Всем привет!</h1>
+<h1 align="center">Hi everyone!</h1>
 <p align="center">
   <a href="https://github.com/mattboldt/typed.js/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Developer;Open+Source+Enthusiast;Continuous+Learner;Music+Producer" alt="Typing SVG" />
@@ -10,15 +10,6 @@
   <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,apple" />
 </p>
 
-## 🌐 Мои проекты:
-<p align="center">
-  <a href="https://github.com/fatyzzz/Byedpi-Setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatyzzz&repo=Byedpi-Setup&theme=dark" alt="Byedpi Setup" />
-  </a>
-  <a href="https://github.com/fatyzzz/donation-media-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatyzzz&repo=donation-media-hub&theme=dark" alt="Donation Media Hub" />
-  </a>
-</p>
 ## 📫 Как связаться:
 <p align="center">
   <a href="https://t.me/zzzytaF">
