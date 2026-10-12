@@ -7,7 +7,7 @@
 
 ## 🗿 Мой stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,git,github,apple" />
+  <img src="https://skillicons.dev/icons?i=python,rust.slint.linux,docker,git,apple" />
 </p>
 
 ## 📫 Как связаться:
