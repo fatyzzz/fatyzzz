@@ -84,5 +84,5 @@ I also contribute to [yaskorinov/yamusic-md3](https://github.com/yaskorinov/yamu
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatyzzz&style=flat-square&color=4C9DFF&label=profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fatyzzz.fatyzzz&left_color=gray&right_color=%234C9DFF&left_text=profile%20views" alt="Profile views" />
 </p>
