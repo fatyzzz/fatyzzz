@@ -31,7 +31,10 @@ I also contribute to [yaskorinov/yamusic-md3](https://github.com/yaskorinov/yamu
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/fatyzzz/multicore-releases">
-        <img src="https://raw.githubusercontent.com/fatyzzz/multicore-releases/main/docs/assets/logo-light.svg" width="40" align="left" alt="" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatyzzz/multicore-releases/main/docs/assets/logo-dark.svg">
+          <img src="https://raw.githubusercontent.com/fatyzzz/multicore-releases/main/docs/assets/logo-light.svg" width="40" align="left" alt="" />
+        </picture>
         <b>MULTICORE</b>
       </a><br>
       <sub>Rust · Slint</sub>
