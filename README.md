@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fatyzzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4C9DFF&center=true&vCenter=true&width=600&lines=Rust+%C2%B7+Python+%C2%B7+Shell;Xray-core+contributor;Native+desktop+apps%2C+no+Electron;Senior+Prompt+Engineer;Music+Producer+%F0%9F%8E%B9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4C9DFF&center=true&vCenter=true&width=600&lines=Rust+%C2%B7+Python+%C2%B7+Shell;Networking+%26+VPN+tooling;Native+desktop+apps%2C+no+Electron;Senior+Prompt+Engineer;Music+Producer+%F0%9F%8E%B9" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,15 +15,9 @@ I build native desktop apps in **Rust** (Slint, Qt Quick), networking tools and 
 plus bots and automation in **Python** and **Shell**. I like software that is fast, good-looking and Electron-free.
 I also make music, which is where the players and audio visualizers come from.
 
-## 🏆 Highlights
+## 🌐 Open source
 
-<p>
-  <a href="https://github.com/XTLS/Xray-core/pulls?q=is%3Apr+author%3Afatyzzz+is%3Amerged">
-    <img src="https://img.shields.io/badge/XTLS%2FXray--core-3%20merged%20PRs-8A2BE2?style=for-the-badge&logo=go&logoColor=white" alt="Xray-core: 3 merged PRs" />
-  </a>
-</p>
-
-Contributor to **[XTLS/Xray-core](https://github.com/XTLS/Xray-core)**, with merged PRs in `finalmask` (header-custom):
+Contributed to [XTLS/Xray-core](https://github.com/XTLS/Xray-core), `finalmask` (header-custom):
 
 - [#5920](https://github.com/XTLS/Xray-core/pull/5920): programmable handshake templates and runtime core
 - [#5945](https://github.com/XTLS/Xray-core/pull/5945): standalone handshake mode for UDP
