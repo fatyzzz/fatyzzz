@@ -30,16 +30,16 @@ I also contribute to [yaskorinov/yamusic-md3](https://github.com/yaskorinov/yamu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/fatyzzz/multicore-releases">
+      <a href="https://github.com/fatyzzz/multicore">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatyzzz/multicore-releases/main/docs/assets/logo-dark.svg">
-          <img src="https://raw.githubusercontent.com/fatyzzz/multicore-releases/main/docs/assets/logo-light.svg" width="40" align="left" alt="" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatyzzz/multicore/main/docs/assets/logo-dark.svg">
+          <img src="https://raw.githubusercontent.com/fatyzzz/multicore/main/docs/assets/logo-light.svg" width="40" align="left" alt="" />
         </picture>
         <b>MULTICORE</b>
       </a><br>
-      <sub>Rust · Slint</sub>
-      <p>Native VPN client for Windows and Linux: two cores, Mihomo and Xray, behind a single Connect button. Paste a subscription, hit Connect, done.</p>
-      <img src="https://img.shields.io/github/stars/fatyzzz/multicore-releases?style=flat-square&color=4C9DFF" alt="stars" />
+      <sub>Rust · Slint · GPL-3.0</sub>
+      <p>Open-source native VPN client for Windows and Linux: two cores, Mihomo and Xray, behind a single Connect button. Paste a subscription, hit Connect, done.</p>
+      <img src="https://img.shields.io/github/stars/fatyzzz/multicore?style=flat-square&color=4C9DFF" alt="stars" />
       <img src="https://img.shields.io/github/downloads/fatyzzz/multicore-releases/total?style=flat-square&color=3CCB7F" alt="downloads" />
     </td>
     <td width="50%" valign="top">
